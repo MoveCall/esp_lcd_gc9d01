@@ -14,7 +14,7 @@ Implementation of the GC9D01 LCD controller with esp_lcd component.
 Packages from this repository are uploaded to [Espressif's component service](https://components.espressif.com/).
 You can add them to your project via `idf.py add-dependancy`, e.g.
 ```
-    idf.py add-dependency esp_lcd_gc9d01==0.1.0
+    idf.py add-dependency movecall/esp_lcd_gc9d01==0.1.0
 ```
 
 Alternatively, you can create `idf_component.yml`. More is in [Espressif's documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/tools/idf-component-manager.html).
